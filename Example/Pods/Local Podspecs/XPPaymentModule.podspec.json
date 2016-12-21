@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of XPPaymentModule.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/XPPaymentModule",
+  "homepage": "https://github.com/XDMobile/XDTest",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "Anonymous": "daoduythuy@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/XPPaymentModule.git",
-    "tag": "0.1.0"
+    "git": "git@github.com:XDMobile/XDTest.git",
+    "branch": "XPPaymentModule"
   },
   "platforms": {
     "ios": "8.0"

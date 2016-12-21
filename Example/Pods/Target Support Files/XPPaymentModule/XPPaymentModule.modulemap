@@ -1,6 +1,0 @@
-framework module XPPaymentModule {
-  umbrella header "XPPaymentModule-umbrella.h"
-
-  export *
-  module * { export * }
-}
