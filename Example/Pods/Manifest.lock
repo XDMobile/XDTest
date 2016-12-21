@@ -1,0 +1,16 @@
+PODS:
+  - XPPaymentModule (0.1.0)
+
+DEPENDENCIES:
+  - XPPaymentModule (from `../`)
+
+EXTERNAL SOURCES:
+  XPPaymentModule:
+    :path: ../
+
+SPEC CHECKSUMS:
+  XPPaymentModule: b391e70cdde36a43f439bee27f6d506f8abc5d0d
+
+PODFILE CHECKSUM: 0516954eec0dddfebba6772a2ecd3eb0328c3f93
+
+COCOAPODS: 1.2.0.beta.1
